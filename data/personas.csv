@@ -1,0 +1,9 @@
+id_cliente,nombre,score_riesgo,pep
+CLI-001,Juan Perez,85,false
+CLI-002,Pedro Gomez,40,true
+CLI-003,Maria Lopez,20,false
+CLI-004,Ana Torres,92,false
+CLI-005,Luis Hernandez,15,false
+CLI-006,Sofia Ramirez,67,true
+CLI-007,Carlos Juan Mendoza,55,false
+CLI-008,Laura Diaz,30,false

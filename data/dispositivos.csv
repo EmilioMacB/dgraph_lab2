@@ -1,0 +1,7 @@
+mac_address,ip_frecuente,tipo_os
+00:1B:44:11:3A:B7,192.168.1.55,iOS
+AA:BB:CC:DD:EE:FF,192.168.1.80,Android
+11:22:33:44:55:66,10.0.0.12,Windows
+77:88:99:AA:BB:CC,10.0.0.45,Android
+DE:AD:BE:EF:00:01,172.16.0.9,macOS
+CA:FE:BA:BE:00:02,172.16.0.20,Linux
